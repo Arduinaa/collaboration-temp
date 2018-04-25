@@ -14,7 +14,7 @@ Git commands
 - remote: TODO
 - reset: TODO
 - revert: TODO
-- clone: TODO
+- clone: Clone a repository into a new directory
 
 GitHub operations
 - fork: TODO
